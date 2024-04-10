@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(139, 25, 5);
+}
+
+p.texto1 {
+    color: blueviolet;
+}
+p.texto2 {
+    color: rgb(0, 61, 38);
+}
+p.texto3 {
+    color: rgb(31, 4, 75);
+}
+* {
+    font-size: 25px;
+}
